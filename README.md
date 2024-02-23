@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eimatheusinho
 - 👀 I’m interested in javascript 
 - 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on GFT
 - 📫 How to reach me on my email:mateusediardosantos@gmail.com
 
 <!---
