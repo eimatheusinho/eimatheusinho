@@ -1,11 +1,8 @@
-- Hi, I’m @eimatheusinho
-- I’m interested in javascript 
-- I’m currently learning javascript 
-- How to reach me on my email:mateusediardosantos@gmail.com
-- My Linkedin: https://www.linkedin.com/in/matheus-eduardo-dos-santos-ti/
+# Olá
 
+### Sobre mim 
+Meu nome é Matheus, sou estudante de Engenharia de Software no Centro Universitário da Fundação Assis Gurgacz, atualmente no 4º período. 
 
-<!---
-eimatheusinho/eimatheusinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Detalhes
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=eimatheusinho&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
