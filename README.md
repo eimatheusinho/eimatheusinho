@@ -17,4 +17,4 @@ Meu nome é Matheus, sou estudante de Engenharia de Software no Centro Universit
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/matheus-eduardo-dos-santos-ti/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/matheus-eduardo-dos-santos-ti/)
