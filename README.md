@@ -1,7 +1,7 @@
-# Olá
+# Olá, me chamo Matheus.
 
 ### Sobre mim 
-Meu nome é Matheus, sou estudante de Engenharia de Software no Centro Universitário da Fundação Assis Gurgacz, atualmente no 4º período. 
+Sou estudante de Engenharia de Software no Centro Universitário da Fundação Assis Gurgacz, atualmente no 4º período. 
 
 ### Detalhes
 
