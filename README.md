@@ -9,4 +9,4 @@ Meu nome é Matheus, sou estudante de Engenharia de Software no Centro Universit
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=eimatheusinho&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/username=eimatheusinho&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
